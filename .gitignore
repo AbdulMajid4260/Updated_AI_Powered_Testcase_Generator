@@ -1,0 +1,16 @@
+
+# Python virtual environment
+backend/venv/
+
+# Secrets
+backend/.env
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environment files
+.env
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
